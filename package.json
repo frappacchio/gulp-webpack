@@ -1,0 +1,29 @@
+{
+  "name": "gulp_webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "js-yaml": "^3.12.0",
+    "rimraf": "^2.6.2",
+    "vinyl-named": "^1.1.0",
+    "webpack": "^4.17.2",
+    "webpack-stream": "^5.1.1",
+    "yargs": "^12.0.1"
+  }
+}
